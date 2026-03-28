@@ -15,7 +15,7 @@
   "use strict";
 
   // ─── Configuration ───────────────────────────────────────────────────────────
-  const API_BASE = "https://ai-support-widget.onrender.com/"; // ← Change this to your backend URL
+  const API_BASE = "https://ai-support-widget.onrender.com/api"; // ← Change this to your backend URL
 
   // Find the script tag that loaded this file to read data attributes
   const scriptTag = document.currentScript ||
